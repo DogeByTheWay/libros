@@ -6,4 +6,8 @@ s
 fsd
 fsd
 fsdf
+<<<<<<< HEAD
 Hola en otra rama
+=======
+Hola
+>>>>>>> testing
